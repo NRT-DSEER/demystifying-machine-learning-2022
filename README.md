@@ -58,3 +58,9 @@ The folder for the recordings will be posted over Slack or sent over email. We w
 
 
 ## Day 2: Neural Networks
+
+-machine learning vs. deep learning
+-fundamentals neural network structure
+-supervised learning
+-loss functions and gradient descent
+-image classification
